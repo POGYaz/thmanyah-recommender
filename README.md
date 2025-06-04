@@ -104,10 +104,16 @@ This shows where the most active listeners are and helps the team localize or pr
 
 ## ▶️ How to Run This Project
 
-1. Clone this repository or download the ZIP
-2. Open the notebook in Jupyter or Google Colab
-3. Run all cells top to bottom
-4. Test the recommender function by calling `recommend_episodes(user_id)`
+You can run the notebook in two ways:
+
+### 🟢 Option 1: Google Colab (Recommended)
+Click the link below to open the notebook directly in Colab:  
+👉 [Open in Google Colab](https://colab.research.google.com/drive/1FcRtHNy4gAWQ2hFmAkpo8iZw5HS6U5uL?usp=sharing)
+
+### ⚙️ Option 2: Run Locally
+1. Clone or download this repository
+2. Open `thmanyah_recommender_project.ipynb` in Jupyter Notebook
+3. Run all cells in order to load data, view charts, and test recommendations
 
 ---
 
